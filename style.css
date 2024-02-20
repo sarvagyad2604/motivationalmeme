@@ -1,0 +1,32 @@
+body
+{
+    background-color: black;
+    
+}
+img{
+    height: 300px;
+    width: 300px;
+    border: 5px solid gold;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+
+}
+h2{
+    color: gold;
+    text-align: center;
+    font-family: cursive;
+    text-decoration: underline;
+    
+}
+h1
+{
+    color: gold;
+    text-align: center;
+    font-family: "Libre Baskerville", serif;
+    text-transform: uppercase;
+  font-weight: 400;
+  font-style: italic;
+  text-decoration: underline;
+}
